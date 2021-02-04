@@ -1,0 +1,91 @@
+inurl:"/administrator/"
+
+inurl:"/webadmin"
+
+inurl:"/admincp/"
+
+inurl:"/admin_"
+
+inurl:/administrator/login.php
+
+inurl:/admin/index.php intext:username
+
+inurl:/administrator/login.php intext:username
+
+inurl:/admin/main.php intext:username
+
+inurl:/admin/login.html intext:login
+
+inurl:/administrator/index.php intext:login
+
+inurl:/adminweb/ intext:login.php
+
+inurl: /administrator/login.php
+
+inurl: /adminweb/ intext:login
+
+inurl: /admin/upload "catalog"
+
+inurl:/administrator/ site:id
+
+inurl:/administrator/ site:in
+
+inurl:/webadmin site:com
+
+inurl:/admincp/ site:com
+
+inurl:/admin_ site:in
+
+inurl:/hsadmin/ site:com
+
+inurl:/hsadmin/ site:in
+
+inurl:/filemanager/ intext:”dialog.php”
+
+inurl:/js/filemanager/ intext:”dialog.php”
+
+inurl:/assets/filemanager/ intext:”dialog.php”
+
+inurl:/assets/filemanager/ intext:”dialog.php” site:in
+
+inurl:/assets/filemanager/ intext:”dialog.php” site:com
+
+inurl:/assets/filemanager/ intext:”dialog.php” site:ac.id
+
+inurl:/assets/filemanager/ intext:”dialog.php” site:id
+
+inurl:/assets/filemanager/ site:com
+
+inurl:/assets/filemanager/ site:id
+
+inurl:/assets/filemanager/ site:my.id
+
+inurl:/assets/filemanager/ site:in
+
+inurl:/assets/filemanager/ site:net
+
+inurl:/assets/filemanager/ site:biz
+
+inurl:/assets/filemanager/ site:uk
+
+inurl:/assets/filemanager/ site:kr
+
+inurl:/assets/filemanager/ site:fr
+
+inurl:/assets/filemanager/ site:af intext:"dialog.php"
+
+inurl:/assets/filemanager/ site:us
+
+inurl:/superadmin/ "login"
+
+inurl:/login.php "admin"
+
+inurl:/admin_login.php
+
+inurl:/adminlogin.php
+
+inurl:/adminlogin.asp
+
+inurl:/loginadmin
+
+inurl:/doing_business_here.php

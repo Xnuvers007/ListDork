@@ -1,0 +1,4 @@
+inurl:"/components/com_sexycontactform/"
+intext:"powered by sexycontactform"
+
+exploit : components/com_sexycontactform/fileupload/index.php

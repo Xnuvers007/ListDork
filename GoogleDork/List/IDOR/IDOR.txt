@@ -1,0 +1,11 @@
+site:.com.gh inurl:"bank"
+
+site:.com.gh inurl:"login"
+
+site:.com.gh inurl:"login" intext:"Bank"
+
+site:.com.gh inurl:"password"
+
+site:.com.id inurl:"admin"
+
+exploit : .com.(UpToYou) inurl:"(UpToYou)"
